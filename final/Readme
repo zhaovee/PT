@@ -1,0 +1,1 @@
+Copy the libraries in Winbgim to MingW as required, and then configure vs code to select multi-file graphics compilation at compile time
